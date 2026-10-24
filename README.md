@@ -4,7 +4,8 @@
 - App Name: Impulse Play
 - Group: 3
 - Student Details:
+
 | Name | Student ID | Email |
 |---|---|---|
-| Hung Le | 300417350 | laic17@student.douglascollege.ca
+| Hung Le | 300417350 | laic17@student.douglascollege.ca |
 | Steven Anderson | 300414292 | andersons23@student.douglascollege.ca |
